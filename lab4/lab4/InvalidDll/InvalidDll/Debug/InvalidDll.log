@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Source.cpp
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Source.cpp(6,23): warning C4273: Add: несовместимое связывание dll
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Header.h(9,22): message : см. предыдущее определение "Add"
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Source.cpp(8,23): warning C4273: Sub: несовместимое связывание dll
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Header.h(11,22): message : см. предыдущее определение "Sub"
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Source.cpp(10,33): warning C4273: Average: несовместимое связывание dll
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Header.h(13,24): message : см. предыдущее определение "Average"
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Source.cpp(12,24): warning C4273: Mult: несовместимое связывание dll
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Header.h(15,22): message : см. предыдущее определение "Mult"
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Source.cpp(14,29): warning C4273: Div: несовместимое связывание dll
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Header.h(17,24): message : см. предыдущее определение "Div"
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Source.cpp(16,23): warning C4273: Mod: несовместимое связывание dll
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Header.h(19,22): message : см. предыдущее определение "Mod"
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Source.cpp(19,1): warning C4273: Factorial: несовместимое связывание dll
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Header.h(21,22): message : см. предыдущее определение "Factorial"
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Source.cpp(25,1): warning C4273: Power: несовместимое связывание dll
+E:\Programming\C#\Ahrameeva\InvalidDll\InvalidDll\Header.h(23,22): message : см. предыдущее определение "Power"
+  Создание кода...
+     Создается библиотека E:\Programming\C#\Ahrameeva\InvalidDll\Debug\InvalidDll.lib и объект E:\Programming\C#\Ahrameeva\InvalidDll\Debug\InvalidDll.exp
+  InvalidDll.vcxproj -> E:\Programming\C#\Ahrameeva\InvalidDll\Debug\InvalidDll.dll

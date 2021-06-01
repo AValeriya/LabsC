@@ -1,0 +1,14 @@
+E:\Programming\C#\Ahrameeva\Lab4_2\Lab4_2\bin\Debug\Lab4_2.exe.config
+E:\Programming\C#\Ahrameeva\Lab4_2\Lab4_2\bin\Debug\Lab4_2.exe
+E:\Programming\C#\Ahrameeva\Lab4_2\Lab4_2\bin\Debug\Lab4_2.pdb
+E:\Programming\C#\Ahrameeva\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Ahrameeva\Lab4_2\Lab4_2\obj\Debug\Lab4_2.exe
+E:\Programming\C#\Ahrameeva\Lab4_2\Lab4_2\obj\Debug\Lab4_2.pdb
+E:\Programming\C#\Ahrameeva\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csprojAssemblyReference.cache
+D:\lab4\Ahrameeva\Lab4_2\Lab4_2\bin\Debug\Lab4_2.exe.config
+D:\lab4\Ahrameeva\Lab4_2\Lab4_2\bin\Debug\Lab4_2.exe
+D:\lab4\Ahrameeva\Lab4_2\Lab4_2\bin\Debug\Lab4_2.pdb
+D:\lab4\Ahrameeva\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csprojAssemblyReference.cache
+D:\lab4\Ahrameeva\Lab4_2\Lab4_2\obj\Debug\Lab4_2.csproj.CoreCompileInputs.cache
+D:\lab4\Ahrameeva\Lab4_2\Lab4_2\obj\Debug\Lab4_2.exe
+D:\lab4\Ahrameeva\Lab4_2\Lab4_2\obj\Debug\Lab4_2.pdb

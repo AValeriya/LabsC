@@ -1,0 +1,7 @@
+D:\Lab_ 2_sem_ISP\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Lab_ 2_sem_ISP\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Lab_ 2_sem_ISP\lab2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Lab_ 2_sem_ISP\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Lab_ 2_sem_ISP\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Lab_ 2_sem_ISP\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Lab_ 2_sem_ISP\lab2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

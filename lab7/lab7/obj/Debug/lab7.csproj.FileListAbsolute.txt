@@ -1,0 +1,7 @@
+D:\Lab_ 2_sem_ISP\lab7\lab7\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+D:\Lab_ 2_sem_ISP\lab7\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+D:\Lab_ 2_sem_ISP\lab7\lab7\lab7\bin\Debug\lab7.exe.config
+D:\Lab_ 2_sem_ISP\lab7\lab7\lab7\bin\Debug\lab7.exe
+D:\Lab_ 2_sem_ISP\lab7\lab7\lab7\bin\Debug\lab7.pdb
+D:\Lab_ 2_sem_ISP\lab7\lab7\lab7\obj\Debug\lab7.exe
+D:\Lab_ 2_sem_ISP\lab7\lab7\lab7\obj\Debug\lab7.pdb

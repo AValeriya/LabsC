@@ -1,0 +1,7 @@
+D:\qwerty\lab8_01\lab8\lab8\bin\Debug\lab8.exe.config
+D:\qwerty\lab8_01\lab8\lab8\bin\Debug\lab8.exe
+D:\qwerty\lab8_01\lab8\lab8\bin\Debug\lab8.pdb
+D:\qwerty\lab8_01\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+D:\qwerty\lab8_01\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+D:\qwerty\lab8_01\lab8\lab8\obj\Debug\lab8.exe
+D:\qwerty\lab8_01\lab8\lab8\obj\Debug\lab8.pdb
